@@ -1,5 +1,6 @@
 * {
     margin: 0; 
+    font-family: 'Roboto', sans-serif;
 }
 
 .sidebar {
@@ -11,3 +12,25 @@
     align-items: center;
     flex-direction: column; 
 } 
+
+.sidebar-top {
+
+}
+.sidebar-center {}
+.sidebar-bottom {}
+
+.logo{
+    font-size: 24px;
+    margin-right: 10px;
+    cursor: pointer;
+    padding-left: 10px; 
+}
+
+.brand{
+     font-weight: bold;
+     cursor: pointer;
+}
+
+.list-item {
+
+}
